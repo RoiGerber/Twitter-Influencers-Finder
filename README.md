@@ -29,3 +29,7 @@ small influencers: <= 1k followers.
 medium influencers: >= 1k  and <= 3k
 "big" influencers: >= 3k  and <= 5k
 
+here is a taste of the first 30:
+![image](https://user-images.githubusercontent.com/85450521/210321101-8b3c89f1-01f5-4781-b65a-0791b1d188bf.png)
+
+all files are uploaded here in the github project folder
